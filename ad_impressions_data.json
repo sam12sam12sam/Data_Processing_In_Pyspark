@@ -1,0 +1,68 @@
+[
+    {
+        "ad_creative_id": "ad1",
+        "user_id": "user1",
+        "timestamp": "2024-05-27T10:00:00",
+        "website": "site1"
+    },
+    {
+        "ad_creative_id": "ad2",
+        "user_id": "user2",
+        "timestamp": "2024-05-27T10:05:00",
+        "website": "site2"
+    },
+    {
+        "ad_creative_id": "ad3",
+        "user_id": "user3",
+        "timestamp": "2024-05-27T10:10:00",
+        "website": "site3"
+    },
+    {
+        "ad_creative_id": "ad4",
+        "user_id": "user4",
+        "timestamp": "2024-05-27T10:15:00",
+        "website": "site4"
+    },
+    {
+        "ad_creative_id": "ad5",
+        "user_id": "user5",
+        "timestamp": "2024-05-27T10:20:00",
+        "website": "site5"
+    },
+    {
+        "ad_creative_id": "ad6",
+        "user_id": "user6",
+        "timestamp": "2024-05-27T10:25:00",
+        "website": "site6"
+    },
+    {
+        "ad_creative_id": "ad7",
+        "user_id": "user7",
+        "timestamp": "2024-05-27T10:30:00",
+        "website": "site7"
+    },
+    {
+        "ad_creative_id": "ad8",
+        "user_id": "user8",
+        "timestamp": "2024-05-27T10:35:00",
+        "website": "site8"
+    },
+    {
+        "ad_creative_id": "ad9",
+        "user_id": "user9",
+        "timestamp": "2024-05-27T10:40:00",
+        "website": "site9"
+    },
+    {
+        "ad_creative_id": "",
+        "user_id": "",
+        "timestamp": "",
+        "website": "site9"
+    },
+    {
+        "ad_creative_id": "ad10",
+        "user_id": "user10",
+        "timestamp": "2024-05-27T10:45:00",
+        "website": "site10"
+    }
+]
