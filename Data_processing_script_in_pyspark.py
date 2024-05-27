@@ -48,7 +48,7 @@ bid_requests_schema = fastavro.schema.Parse("""
 def validate_and_filter(df, required_columns):
     # Check for nulls
     for column in required_columns:
-        df = df.filter(col(column).isNotNull())
+        df = df.filter((col(column).isNotNull()) & (col(column) != ""))
     
     # Remove duplicates
     df = df.dropDuplicates()
