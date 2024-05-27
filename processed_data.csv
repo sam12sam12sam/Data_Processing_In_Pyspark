@@ -1,11 +1,6 @@
 ad_creative_id,user_id,timestamp_x,website,event_timestamp,ad_campaign_id,conversion_type,auction_id,ad_targeting_criteria,timestamp_y
-ad1,user1,2024-05-27 10:00:00,site1,2024-05-27 10:02:00,camp1,signup,auction1,criteria1,2024-05-27 10:00:00
 ad2,user2,2024-05-27 10:05:00,site2,2024-05-27 10:06:00,camp2,purchase,auction2,criteria2,2024-05-27 10:05:00
 ad3,user3,2024-05-27 10:10:00,site3,2024-05-27 10:12:00,camp3,signup,auction3,criteria3,2024-05-27 10:10:00
-ad4,user4,2024-05-27 10:15:00,site4,2024-05-27 10:16:00,camp4,purchase,auction4,criteria4,2024-05-27 10:15:00
 ad5,user5,2024-05-27 10:20:00,site5,2024-05-27 10:22:00,camp5,signup,auction5,criteria5,2024-05-27 10:20:00
 ad6,user6,2024-05-27 10:25:00,site6,2024-05-27 10:26:00,camp6,purchase,auction6,criteria6,2024-05-27 10:25:00
-ad7,user7,2024-05-27 10:30:00,site7,2024-05-27 10:32:00,camp6,signup,auction7,criteria7,2024-05-27 10:30:00
-ad8,user8,2024-05-27 10:35:00,site8,2024-05-27 10:36:00,camp9,purchase,auction8,criteria8,2024-05-27 10:35:00
-ad9,user9,2024-05-27 10:40:00,site9,2024-05-27 10:42:00,camp9,signup,auction9,criteria9,2024-05-27 10:40:00
-ad10,user10,2024-05-27 10:45:00,site10,2024-05-27 10:46:00,camp9,purchase,auction10,criteria10,2024-05-27 10:45:00
+ad6,user6,2024-05-27 10:25:00,site6,2024-05-27 10:26:00,camp6,purchase,auction7,criteria7,2024-05-27 10:30:00

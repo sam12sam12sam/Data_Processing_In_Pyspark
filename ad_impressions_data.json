@@ -49,19 +49,13 @@
     },
     {
         "ad_creative_id": "ad9",
-        "user_id": "user9",
+        "user_id": "",
         "timestamp": "2024-05-27T10:40:00",
         "website": "site9"
     },
     {
-        "ad_creative_id": "",
-        "user_id": "",
-        "timestamp": "",
-        "website": "site9"
-    },
-    {
         "ad_creative_id": "ad10",
-        "user_id": "user10",
+        "user_id": "",
         "timestamp": "2024-05-27T10:45:00",
         "website": "site10"
     }
